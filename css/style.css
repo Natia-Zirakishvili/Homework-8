@@ -23,7 +23,7 @@ body {
 	animation: sun 4s infinite;
 }
 .cloud {
-	width: 250px;
+	width: 300px;
 	top:20px;
 	left: 50px;
 	animation: cloud 5s infinite;
