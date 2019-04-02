@@ -23,13 +23,13 @@ body {
 	animation: sun 4s infinite;
 }
 .cloud {
-	width: 150px;
-	top:0px;
+	width: 250px;
+	top:20px;
 	left: 50px;
 	animation: cloud 5s infinite;
 }
 .two {
-	left: 190px;
+	left: 300px;
 }
 
 .flower {
