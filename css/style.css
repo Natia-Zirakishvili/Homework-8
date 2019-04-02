@@ -90,8 +90,8 @@ body {
 
 .dog { 
 	width: 100px;
-	bottom: 10px;
-	left:750px;
+	bottom: 25px;
+	left:730px;
 	transition: all 0.5s linear 0.5s;
  }
 
